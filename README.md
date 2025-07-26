@@ -1,7 +1,9 @@
 ## Hi, I'm Suraj ✨
 
 Computer Science student at National Forensic Sciences Univeristy (NFSU) Dharwad.<br/>
-I make django apps, learn CS fundamentals and do Codeforces in my free time.<br/>
+I love coding apps, be it Web app or Mobile App. </br>
+I not a lover of any specific language/framework, but code with any of them as the need comes.<br/>
+As of now I am learning AI bcoz its crazy and I love it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fourtwosevensix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suraj-bhadauria-0760a81a6) 
