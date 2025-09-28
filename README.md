@@ -1,9 +1,10 @@
 ## Hi, I'm Suraj ✨
 
-Computer Science student at National Forensic Sciences Univeristy (NFSU) Dharwad.<br/>
-I love coding apps, be it Web app or Mobile App. </br>
-I not a lover of any specific language/framework, but code with any of them as the need comes.<br/>
-I believe in AI.
+🚀 Computer Science @ NFSU Dharwad </br>
+💻 I build things that live on the web and mobile </br>
+🛠️ Not married to any one language or framework — I let the problem decide the tool </br>
+🤖 Firm believer in the power of AI to shape the future</br>
+🌱 Always exploring, always learning, always shipping</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fourtwosevensix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suraj-bhadauria-0760a81a6) 
