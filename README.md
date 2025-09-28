@@ -1,6 +1,6 @@
 ## Hi, I'm Suraj ✨
 
-Computer Science @ NFSU Dharwad </br>
+Computer Science @ NFSU Dharwad, India </br>
 I build things that live on the web and mobile </br>
 Not married to any one language or framework — I let the problem decide the tool </br>
 Firm believer in the power of AI to shape the future</br>
