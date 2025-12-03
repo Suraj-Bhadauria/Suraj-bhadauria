@@ -1,11 +1,10 @@
 ## Hi, I'm Suraj ✨
 
-Computer Science @ NFSU Dharwad, India. </br>
-I build things that live on the web and mobile. </br>
-Not married to any one language or framework — I let the problem decide the tool. </br>
-I don't chase frameworks, I chase solutions.
-Firm believer in the power of AI to shape the future.</br>
-Always exploring, always learning, always shipping.</br>
+I'm a developer who translates complex problems into elegant software solutions. While my work spans the web and mobile, my passion is engineering the future with **Artificial Intelligence**.
+
+I specialize in building applications powered by **Generative AI** and custom-trained **Deep Learning models**.
+
+> I believe the right tool is the one that solves the problem, not just the one that's trending. As a firm believer in the power of AI, my focus is always on shipping impactful solutions that will help shape our future.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fourtwosevensix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suraj-bhadauria-0760a81a6) 
