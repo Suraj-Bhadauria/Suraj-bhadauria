@@ -1,10 +1,12 @@
 ## Hi, I'm Suraj ✨
 
-I'm a developer who translates complex problems into elegant software solutions. While my work spans the web and mobile, my passion is engineering the future with **Artificial Intelligence**.
+I am a curious Computer Science student who loves to write instructions for machine to follow. I do not discriminate against frameworks as each one is piece of art developed by an artist. 
+I know CS fundamentals, comfortable in python, C++, TypeScript and Java. I am a SQL fan, and yes, I hate ORM. 
+I love brainstorming, ideating and problem solving, that's why go to hackathons. (for coffee also)
+I develop LLM applications. Let's see how **Artificial Intelligence** can serve _HUMANITY_.
+If you have a solid startup idea and in a search of a good cofounder, dm me. Also, your startup name must have AI in it. (just kidding).
+Silicon thrive!
 
-I specialize in building applications powered by **Generative AI** and custom-trained **Deep Learning models**.
-
-> I believe the right tool is the one that solves the problem, not just the one that's trending. As a firm believer in the power of AI, my focus is always on shipping impactful solutions that will help shape our future.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fourtwosevensix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suraj-bhadauria-0760a81a6) 
