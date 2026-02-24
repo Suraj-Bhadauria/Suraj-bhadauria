@@ -11,7 +11,7 @@ I develop LLM applications. Let's see how **Artificial Intelligence** can serve 
 
 If you have a solid startup idea and in a search of a good cofounder, dm me. Also, your startup name must have AI in it. (just kidding).
 
-You can find some of my work recorded here : [![Portfolio]](https://portfolio-suraj-bhadauria.vercel.app/) 
+You can find some of my work recorded here : [[Click me!]](https://portfolio-suraj-bhadauria.vercel.app/) 
 
 
 **Silicon thrive!**
