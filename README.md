@@ -1,7 +1,6 @@
 ## Hi, I'm Suraj ✨
 
 I am a curious Computer Science student who loves to write instructions for machine to follow. 
-
 I do not discriminate against frameworks as each one is a piece of art developed by an artist. 
 
 I know CS fundamentals, comfortable in python, C++, TypeScript and Java. I am a SQL fan, and yes, I hate ORM. 
