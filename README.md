@@ -1,11 +1,18 @@
 ## Hi, I'm Suraj ✨
 
-I am a curious Computer Science student who loves to write instructions for machine to follow. I do not discriminate against frameworks as each one is piece of art developed by an artist. 
+I am a curious Computer Science student who loves to write instructions for machine to follow. 
+
+I do not discriminate against frameworks as each one is a piece of art developed by an artist. 
+
 I know CS fundamentals, comfortable in python, C++, TypeScript and Java. I am a SQL fan, and yes, I hate ORM. 
+
 I love brainstorming, ideating and problem solving, that's why go to hackathons. (for coffee also)
+
 I develop LLM applications. Let's see how **Artificial Intelligence** can serve _HUMANITY_.
+
 If you have a solid startup idea and in a search of a good cofounder, dm me. Also, your startup name must have AI in it. (just kidding).
-Silicon thrive!
+
+**Silicon thrive!**
 
 
 ## 🌐 Socials:
