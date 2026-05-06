@@ -3,7 +3,7 @@
 I am a curious Computer Science student who loves to write instructions for machine to follow. 
 I do not discriminate against frameworks as each one is a piece of art developed by an artist. 
 
-I know CS fundamentals, comfortable in python, C++, TypeScript and Java. I am a SQL fan, and yes, I hate ORM. 
+I know CS fundamentals, comfortable in python, TypeScript, C++ and Java. I am a SQL fan, and yes, I hate ORM. 
 
 I love brainstorming, ideating and problem solving, that's why I go to hackathons. (for coffee also)
 
